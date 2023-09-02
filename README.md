@@ -11,7 +11,7 @@
 >### Kattints a **win-x64.7z.001** fájlra
 > ![win-x64.7z.001](Képek/1.png)
 > 
->### Kattints a **view raw**-ra **2.)**, majd kattints bal oldalon a másik fájlra, és megint a view raw-ra
+>### Kattints a **view raw**-ra, majd kattints bal oldalon a másik fájlra, és megint a view raw-ra
 > ![view raw](Képek/2.png)
 > 
 >### Csomagold ki **7-zip**-el egy mappába.
